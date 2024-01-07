@@ -1,0 +1,23 @@
+{
+  "name": "proshop",
+  "version": "2.0.0",
+  "description": "eCommerce application built with mern stack ",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakemonostan/proshop.git"
+  },
+  "author": "Ehis Omokhomion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bakemonostan/proshop/issues"
+  },
+  "homepage": "https://github.com/bakemonostan/proshop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
